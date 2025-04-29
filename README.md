@@ -43,3 +43,50 @@ You can replace the dataset with your own custom-labeled CSV or image files.
    cd Pytorch-Transfer-Learning-custom-dataset
 
 
+2. Install required packages:
+
+pip install torch torchvision pandas numpy matplotlib scikit-learn
+
+
+3. Launch Jupyter Notebook:
+
+jupyter notebook
+
+
+
+## Usage
+
+Open the notebook:
+
+Transfer learning.ipynb
+
+Follow the step-by-step instructions to:
+
+Load the CSV dataset
+
+Preprocess the data
+
+Load a pre-trained model
+
+Train and evaluate the model
+
+
+
+## Results
+
+The notebook will display:
+
+Training and validation accuracy
+
+
+
+These results help in visualizing how well the model generalizes to the custom dataset.
+
+License
+
+This project is licensed under the Creative Commons Zero v1.0 Universal – feel free to use, modify, and distribute it.
+
+
+---
+
+Author: Bablu Kumar Jha
